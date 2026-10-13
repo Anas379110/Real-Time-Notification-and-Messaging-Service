@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — خدمة الإشعارات والرسائل في الوقت الفعلي
+# 🛠️ Technologies Used — Real-Time Notification & Messaging Service
 
 - ASP.NET Core
 - SignalR
